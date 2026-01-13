@@ -1,2 +1,2 @@
 # data-engineering-zoomcamp
-This a repository which I try to solve porblems of data engineering zoomcamp 2026
+This is a repository for solving porblems of data engineering zoomcamp 2026
